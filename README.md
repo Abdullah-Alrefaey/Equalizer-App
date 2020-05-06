@@ -1,7 +1,3 @@
-## DSP Tasks Repository 
-
-All Digital signal processing tasks are tracked here 
-
 ## Team Members 
 
 - [Ahmad Mahdy](https://github.com/AMahdy98) 
