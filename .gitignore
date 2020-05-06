@@ -1,9 +1,6 @@
-ipynb_checkpoints
+.ipynb_checkpoints
 .idea
 .vscode
 .__pycache__/
 __pycache__/
-Task2/__pycache__/helpers.cpython-37.pyc
-Task2/__pycache__/mySliderClass.cpython-37.pyc
-Task2/__pycache__/helpers.cpython-37.pyc
-Task2/__pycache__/mySliderClass.cpython-37.pyc
+/.ipynb_checkpoints/
